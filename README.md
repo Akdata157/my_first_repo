@@ -1,2 +1,2 @@
-# my_first_repo
-for learning
+# my_first_repor minore update!
+
